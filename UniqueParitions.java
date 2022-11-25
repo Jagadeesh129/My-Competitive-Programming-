@@ -5,7 +5,7 @@ Given a positive integer n, generate all possible unique ways to represent n as 
 Note: The generated output is printed without partitions. Each partition must be in decreasing order. Printing of all the partitions is done in reverse sorted order. 
 Input: n = 3
 Output: 3 2 1 1 1 1
-Explanation: For n=3, 
+Explanation: For n = 3, 
 {3}, {2, 1} and {1, 1, 1}.
 */
 class Solution
